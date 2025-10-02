@@ -103,7 +103,7 @@ export default function sqlite() {
           style={estilos.campoTexto}
         />
       </View>
-       <Button title="Salvar" onPress={salvarTarefa | salvarTarefa1 | salvarTarefa2} />
+       <Button title="Salvar" onPress={salvarTarefa} />
        <View>
         <TextInput
                   
